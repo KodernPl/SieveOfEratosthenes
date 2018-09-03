@@ -1,4 +1,3 @@
-﻿# Krzysztof Kuziel www.krzykustudio.pl
 # Sieve of Eratosthenes 
 # Find prime numbers up to any given limit
 #helpers
